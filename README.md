@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+ [![Edvin's github stats](https://github-readme-stats.vercel.app/api?username=edvinmegantara9&count_private=true&show_icons=true&theme=tokyonight&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+ [![Edvin's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=edvinmegantara9&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+ [![Edvin's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=edvinmegantara9&count_private=true&theme=tokyonight&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
 <!--
 **edvinmegantara9/edvinmegantara9** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,5 +18,3 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 --!>
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=edvinmegantara9&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
