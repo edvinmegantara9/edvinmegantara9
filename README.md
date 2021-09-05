@@ -1,6 +1,6 @@
 ### Hi there 👋
 
- [![Edvin's github stats](https://github-readme-stats.vercel.app/api?username=edvinmegantara9&count_private=true&show_icons=true&theme=tokyonight&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+ [![Edvin's github stats](https://github-readme-stats.vercel.app/api?username=edvinmegantara9&count_private=true&show_icons=true&theme=tokyonight&layout=compact)](https://github-readme-stats.vercel.app/api?username=edvinmegantara9&count_private=true&show_icons=true&theme=tokyonight&layout=compact)
  [![Edvin's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=edvinmegantara9&theme=tokyonight)](https://github-readme-stats.vercel.app/api/wakatime?username=edvinmegantara9&theme=tokyonights)
  [![Edvin's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=edvinmegantara9&count_private=true&theme=tokyonight&layout=compact)](https://github-readme-stats.vercel.app/api/top-langs/?username=edvinmegantara9&count_private=true&theme=tokyonight&layout=compact)
 
